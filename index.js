@@ -18,6 +18,6 @@ function sayHiToGrandma(text){
     if(text === text.toLowerCase()){
         return "I can't hear you!";
     } else if(text === text.toUpperCase()){
-        return "YES INDEED!""
+        return "YES INDEED!";
     }
 }
