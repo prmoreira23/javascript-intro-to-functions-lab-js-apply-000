@@ -20,6 +20,6 @@ function sayHiToGrandma(text){
     } else if(text === text.toUpperCase()){
         return "YES INDEED!";
     } else if(text.toLowerCase === "I love you, grandma."){
-        
+        return "I love you, too.";
     }
 }
